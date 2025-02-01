@@ -8,16 +8,19 @@ This project implements a **pure arbitrage trading strategy** in the cryptocurre
 - 📈 **Backtesting framework** to evaluate strategy performance  
 - 🔒 **Risk management** to prevent unnecessary losses  
 
+
 ## 🛠 Installation  
 1. **Clone the repository:**  
    ```bash
    git clone https://github.com/YOUR_USERNAME/crypto-arbitrage-bot.git
    cd crypto-arbitrage-bot
 
+
 Install dependencies:
 pip install -r requirements.txt
 Run the notebook in Jupyter:
 jupyter notebook "crypto Pure Arbitrage.ipynb"
+
 ⚙️ How It Works
 
 The bot fetches real-time prices from multiple cryptocurrency exchanges.
