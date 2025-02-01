@@ -24,6 +24,7 @@ The bot fetches real-time prices from multiple cryptocurrency exchanges.
 It calculates the price spread between exchanges.
 If the spread exceeds a certain threshold, it executes simultaneous buy and sell orders.
 Profits are locked in when prices converge, making it a risk-free arbitrage.
+
 🔮 Future Enhancements
 
 ✅ API integration for automated order execution
